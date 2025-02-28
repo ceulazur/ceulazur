@@ -9,9 +9,8 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=ceulazur&color=007AA2"><br>
 <div align="center">
   <a href="https://github.com/ceulazur">
-    <video align="center" width="500" autoplay loop muted>
-        <source src="o1.mp4" type="video/mp4">
-    </video>
+          <td><img src="o1.gif" width="500px" height="250px"> </td>
+
 
   </a>
 </div>
@@ -73,11 +72,7 @@ Sou graduanda do sexto semestre de <b>Engenharia d Software</b> pela Universidad
 <td><img src="il.gif" width="480px" height="200px"> </td>
 
 - Amo assistir filmes, series e animes. Logo, deixo minhas recomendações no meu [Letterboxd](https://letterboxd.com/ceulazur/)
-<td>
-    <video width="480" height="200" autoplay loop muted>
-        <source src="u.mp4" type="video/mp4">
-    </video>
-</td>
+ <td><img src="u.gif" width="430px" height="170px"> </td>
 
 - Também gosto muito ler e às vezes recomendo alguns livros nas minhas redes sociais. 
 Vou até deixar algumas recomendações aqui: 
@@ -91,13 +86,9 @@ Vou até deixar algumas recomendações aqui:
 <div align="center">
   <table>
     <tr>
-      <td>
-    <video width="480" height="200" autoplay loop muted>
-        <source src="d1.mp4" type="video/mp4">
-    </video>
-</td>
-      <td><img src="cl.jpg" width="800px" height="150px"> </td>
-    
+    <td><img src="d1.gif" width="480px" height="200px"> </td>
+    <td><img src="cl.gif" width="800px" height="200px"> </td>
+
   </table>
 </div>
 
@@ -125,20 +116,12 @@ Vou até deixar algumas recomendações aqui:
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ceulazur&theme=monokai&no-frame=true&no-bg=false&margin-w=4)
-
 <!--### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ceulazur&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ceulazur&icon=0&color=0)](https://visitcount.itsvg.in) -->
 
+<td><img src="bb.gif" width="180px" height="100px"> </td>
 
-
-
-
-<td>
-    <video width="500" height="100" autoplay loop muted>
-        <source src="bb.mp4" type="video/mp4">
-    </video>
-</td>
  <td><img src="v1.gif"></td>
