@@ -72,7 +72,7 @@ Sou graduanda do sexto semestre de <b>Engenharia d Software</b> pela Universidad
 <td><img src="il.gif" width="480px" height="200px"> </td>
 
 - Amo assistir filmes, series e animes. Logo, deixo minhas recomendações no meu [Letterboxd](https://letterboxd.com/ceulazur/)
- <td><img src="u.gif" width="430px" height="170px"> </td>
+ <td><img src="u.gif" width="300px" height="250px"> </td>
 
 - Também gosto muito ler e às vezes recomendo alguns livros nas minhas redes sociais. 
 Vou até deixar algumas recomendações aqui: 
