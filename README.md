@@ -41,7 +41,7 @@
 
 ## 🌞 Sobre mim
 
-Sou graduanda do sexto semestre de <b>Engenharia d Software</b> pela Universidade Federal do Ceára (UFC) e atualmente busco me aprofundar em Data Science e Cybersecurity. Meu foco há 2 anos tem sido saúde digital e bioinformática, meus grandes amores. Sou muito curiosa e persistente, então faço de tudo um pouco. Por aqui gosto de compartilhar meus projetos pessoais majoritariamente em Python e meus trabalhos da faculdade e derivados. Atualmente estou estudando R e provavelmente irei trazer repositórios sobre.
+Sou graduanda do sexto semestre de <b>Engenharia de Software</b> pela Universidade Federal do Ceará (UFC) e, atualmente, busco me aprofundar em Data Science e Cybersecurity. Meu foco nos últimos dois anos tem sido saúde digital e bioinformática, meus grandes amores. Sou muito curiosa e persistente, então, além de fazer um pouco de tudo, estou sempre buscando melhorar a cada nova tentativa. Por aqui, gosto de compartilhar meus projetos pessoais (majoritariamente em Python), meus trabalhos da faculdade e derivados. Atualmente, estou estudando R e provavelmente trarei repositórios sobre isso.
 
 ## 🌸Objetivos
 - Meu objetivo principal é utilizar a tecnologia para ampliar o acesso à saúde de qualidade, garantindo que o máximo de pessoas, independentemente de sua localização ou condição socioeconômica, possa receber atendimento adequado.
@@ -86,8 +86,8 @@ Vou até deixar algumas recomendações aqui:
 <div align="center">
   <table>
     <tr>
-    <td><img src="d1.gif" width="480px" height="200px"> </td>
-    <td><img src="cl.gif" width="800px" height="200px"> </td>
+    <td><img src="d1.gif" width="200px" height="300px"> </td>
+    <td><img src="cl.gif" width="400px" height="300px"> </td>
 
   </table>
 </div>
@@ -123,5 +123,5 @@ Vou até deixar algumas recomendações aqui:
 [![](https://visitcount.itsvg.in/api?id=ceulazur&icon=0&color=0)](https://visitcount.itsvg.in) -->
 
 <td><img src="bb.gif" width="180px" height="100px"> </td>
-
+<td><img src="k1.gif" width="180px" height="100px"> </td>
  <td><img src="v1.gif"></td>
