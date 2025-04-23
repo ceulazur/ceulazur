@@ -41,7 +41,7 @@
 
 ## 🌞 Sobre mim
 
-Sou graduanda do sexto semestre de <b>Engenharia de Software</b> pela Universidade Federal do Ceará (UFC) e, atualmente, busco me aprofundar em Data Science e Cybersecurity. Meu foco nos últimos dois anos tem sido saúde digital e bioinformática, meus grandes amores. Sou muito curiosa e persistente, então, além de fazer um pouco de tudo, estou sempre buscando melhorar a cada nova tentativa. Por aqui, gosto de compartilhar meus projetos pessoais (majoritariamente em Python), meus trabalhos da faculdade e derivados. Atualmente, estou estudando R e provavelmente trarei repositórios sobre isso.
+Sou graduanda do sétimo semestre de <b>Engenharia de Software</b> pela Universidade Federal do Ceará (UFC) e, atualmente, busco me aprofundar em Data Science e Cybersecurity. Meu foco nos últimos dois anos tem sido saúde digital e bioinformática, meus grandes amores. Sou muito curiosa e persistente, então, além de fazer um pouco de tudo, estou sempre buscando melhorar a cada nova tentativa. Por aqui, gosto de compartilhar meus projetos pessoais (majoritariamente em Python), meus trabalhos da faculdade e derivados. Atualmente, estou estudando R e provavelmente trarei repositórios sobre isso.
 
 ## 🌸Objetivos
 - Meu objetivo principal é utilizar a tecnologia para ampliar o acesso à saúde de qualidade, garantindo que o máximo de pessoas, independentemente de sua localização ou condição socioeconômica, possa receber atendimento adequado.
@@ -74,7 +74,7 @@ Sou graduanda do sexto semestre de <b>Engenharia de Software</b> pela Universida
 - Amo assistir filmes, series e animes. Logo, deixo minhas recomendações no meu [Letterboxd](https://letterboxd.com/ceulazur/)
  <td><img src="u.gif" width="300px" height="250px"> </td>
 
-- Também gosto muito ler e às vezes recomendo alguns livros nas minhas redes sociais. 
+- Também gosto muito de ler e às vezes recomendo alguns livros nas minhas redes sociais. 
 Vou até deixar algumas recomendações aqui: 
   - Os miseráveis - Victor Hugo
   - Agassi - Andre Agassi
