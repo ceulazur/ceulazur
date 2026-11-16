@@ -22,22 +22,25 @@
 ## ✧ About me 
 
 Software Engineering undergraduate at the **Federal University of Ceará (UFC), Brazil**. Interested in data science, artificial intelligence, and the intersection of technology, research, and society.
+
   /ᐠ - ˕ -マ ᶻ 𝗓 𐰁
 ## ✧ Areas of Interest
 
 `Data Science` ✧ `Artificial Intelligence` ✧ `Data Engineering` ✧ `Data Governance` ✧ `Digital Health`
+
 ദ്ദി/ᐠ｡‸｡ᐟ\ 
 ## ✧ Technologies
 
 `Python` · `SQL` · `Pandas` · `Scikit-learn`
 
 `PostgreSQL` · `Git` · `Docker` · `Power BI`
+
 ദ്ദി(• ˕ •マ.ᐟ
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0D3B66&height=8" width="100%"/>
 
-<h2><span style="color:#176B87;">꧁ ༺ 江若兰༻ ꧂</span></h2>
+<h2><span style="color:#176B87;">꧁ ༺ 江若兰 ༻ ꧂</span></h2>
 <sub><span style="color:#65B8D0;">J I Ā N G &nbsp; R U Ò L Á N</span></sub>
 
 <br/>
