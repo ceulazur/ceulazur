@@ -11,7 +11,7 @@
 
 ฅᨐฅ
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-176B87?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhordanna-goncalves/) [![Email](https://img.shields.io/badge/Email-368FA8?style=flat-square&logo=gmail&logoColor=white)](mailto:jhordanna@alu.ufc.br)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-176B87?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhordanna-goncalves/) [![Email](https://img.shields.io/badge/Email-176B87?style=flat-square&logo=gmail&logoColor=white)](mailto:goncalvesjhordanna@gmail.com)
 </div>
 <img align="right" src="https://komarev.com/ghpvc/?username=ceulazur&color=007AA2"><br>
 
