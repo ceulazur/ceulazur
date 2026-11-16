@@ -11,9 +11,11 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-176B87?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhordanna-goncalves/) [![Email](https://img.shields.io/badge/Email-368FA8?style=flat-square&logo=gmail&logoColor=white)](mailto:jhordanna@alu.ufc.br)
 </div>
 <img align="right" src="https://komarev.com/ghpvc/?username=ceulazur&color=007AA2"><br>
+
 <div align="center">
-  <a href="https://github.com/ceulazur">
-          <td><img src="o1.gif" width="500px" height="250px"> </td>
+  <img src="./o1.gif" width="500" alt="Orchid animation"/>
+</div>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0D3B66&height=8" width="100%"/>
 
 ## ✧ About me
